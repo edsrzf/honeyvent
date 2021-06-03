@@ -1,4 +1,4 @@
-module github.com/honeycombio/honeyvent
+module github.com/edsrzf/honeyvent
 
 go 1.12
 
